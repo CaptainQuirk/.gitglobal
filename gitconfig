@@ -1,0 +1,30 @@
+[giggle]
+	main-window-maximized = false
+	main-window-geometry = 2552x959+2+24
+	history-view-vpane-position = 676
+	main-window-view = HistoryView
+	file-view-vpane-position = 915
+	file-view-hpane-position = 266
+[user]
+	name = lmessier
+	email = leonard.messier@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%cr) %C(bold blue)<%an>%Creset %C(yellow)%d%Creset %s' --abbrev-commit --
+	d = diff --color
+  s = status -s
+[color "branch"]
+  current= yellow reverse
+  local= yellow
+  remote = green
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old  = red bold
+  new  = green bold
+[color "status"]
+  added = yellow
+  changed = green
+  untracked = blue
