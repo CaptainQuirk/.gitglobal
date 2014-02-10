@@ -1,17 +1,21 @@
 [giggle]
 	main-window-maximized = false
-	main-window-geometry = 2552x959+2+24
-	history-view-vpane-position = 676
+	main-window-geometry = 1122x968+66+24
+	history-view-vpane-position = 280
 	main-window-view = HistoryView
-	file-view-vpane-position = 915
+	file-view-vpane-position = 924
 	file-view-hpane-position = 266
+	show-graph = false
+[github]
+	user=webmunster
 [user]
 	name = lmessier
 	email = leonard.messier@gmail.com
 [core]
 	editor = vim
 	autocrlf = input
-  filemode = false
+	filemode = false
+	excludesfile = ~/.gitglobal/gitignore
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%cr) %C(bold blue)<%an>%Creset %C(yellow)%d%Creset %s' --abbrev-commit --
 	d = diff --color
@@ -29,3 +33,4 @@
   added = yellow
   changed = green
   untracked = blue
+
