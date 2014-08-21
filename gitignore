@@ -3,3 +3,6 @@
 
 # Step files
 step
+
+# Lock files
+*.~lock*
