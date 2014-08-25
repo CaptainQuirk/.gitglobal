@@ -1,8 +1,9 @@
 # Swap files
 *~
+*.~lock*
+~$*
 
 # Step files
 step
 
 # Lock files
-*.~lock*
