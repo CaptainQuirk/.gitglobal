@@ -1,7 +1,12 @@
 # Swap files
+
+# Linux
 *~
 *.~lock*
 ~$*
+
+# Mac os
+*.DS_Store
 
 # Step files
 step
