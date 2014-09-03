@@ -10,3 +10,6 @@
 
 # Step files
 step
+
+# Language modules
+node_modules
