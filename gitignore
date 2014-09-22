@@ -13,3 +13,6 @@ step
 
 # Language modules
 node_modules
+
+# Editor project files
+.project
