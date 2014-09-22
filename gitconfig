@@ -34,3 +34,5 @@
   changed = green
   untracked = blue
 
+[status]
+	showUntrackedFiles = all
