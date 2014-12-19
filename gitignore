@@ -16,3 +16,9 @@ node_modules
 
 # Editor project files
 .project
+
+# custom project files
+.oh-my-project.md
+
+# Ctags file
+.tags
