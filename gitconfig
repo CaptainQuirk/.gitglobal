@@ -21,6 +21,7 @@
 	d = diff --color
   dcw = diff --color-words=.
   s = status -s
+	bp = big-picture
 [color "branch"]
   current= yellow reverse
   local= yellow
@@ -38,3 +39,5 @@
 
 [status]
 	showUntrackedFiles = all
+[big-picture]
+	viewer = /Applications/Firefox.app/Contents/MacOS/firefox
