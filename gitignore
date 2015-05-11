@@ -18,7 +18,7 @@ node_modules
 .project
 
 # custom project files
-.oh-my-project.md
+.oh-my-project.*
 
 # Ctags file
 .tags
