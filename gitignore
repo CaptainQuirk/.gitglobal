@@ -27,3 +27,6 @@ tags
 
 # Local configuration directories
 .rc.d
+
+# Vim bookmarks
+.vim-bookmarks
