@@ -28,8 +28,9 @@ tags
 # Local configuration directories
 .rc.d
 
-# Vim bookmarks
+# Vim
 .vim-bookmarks
-
-# Vim sessions
 Session.vim
+.projections.json
+
+
