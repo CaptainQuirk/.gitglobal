@@ -37,7 +37,5 @@
   changed = green
   untracked = blue
 
-[status]
-	showUntrackedFiles = all
 [big-picture]
 	viewer = /Applications/Firefox.app/Contents/MacOS/firefox
