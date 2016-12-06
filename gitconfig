@@ -39,3 +39,5 @@
 
 [big-picture]
 	viewer = /Applications/Firefox.app/Contents/MacOS/firefox
+[rerere]
+	enabled = true
