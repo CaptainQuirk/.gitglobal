@@ -15,7 +15,7 @@
 	editor = vim
 	autocrlf = input
 	filemode = false
-	excludesfile = ~/.gitglobal/gitignore
+	excludesfile = ~/.gitignore
 [alias]
 	lg = log --date=short --color --graph --pretty=format:'%Cred%h%Creset -%Cgreen(%ad) %C(bold blue)<%an>%Creset %C(yellow)%d%Creset %s' --abbrev-commit --
 	d = diff --color
