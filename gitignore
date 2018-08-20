@@ -24,6 +24,8 @@ node_modules
 .tags
 tags
 .vimtags
+tags.lock
+tags.temp
 
 # Local configuration directories
 .rc.d
