@@ -40,3 +40,5 @@ Session.vim
 # rc files
 .ackrc
 .jshintrc
+
+.share
