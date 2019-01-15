@@ -42,3 +42,6 @@ Session.vim
 .jshintrc
 
 .share
+
+phpactor.log
+phpactor-replay.json
