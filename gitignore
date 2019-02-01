@@ -45,3 +45,6 @@ Session.vim
 
 phpactor.log
 phpactor-replay.json
+
+.tmuxinator.*
+koorc.json
