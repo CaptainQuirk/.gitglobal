@@ -48,3 +48,7 @@ phpactor-replay.json
 
 .tmuxinator.*
 koorc.json
+
+.classpath
+.settings
+.metadata
