@@ -52,3 +52,6 @@ koorc.json
 .classpath
 .settings
 .metadata
+
+# direnv
+.envrc
