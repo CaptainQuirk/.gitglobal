@@ -34,7 +34,8 @@ tags.temp
 .vim-bookmarks
 Session.vim
 .projections.json
-
+.vim
+.lvimrc
 .vimlocal
 
 # rc files
