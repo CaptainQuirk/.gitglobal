@@ -8,9 +8,6 @@
 	show-graph = false
 [github]
 	user=webmunster
-[user]
-	name = lmessier
-	email = leonard.messier@gmail.com
 [core]
 	editor = vim
 	autocrlf = input
