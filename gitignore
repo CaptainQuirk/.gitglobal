@@ -37,6 +37,7 @@ Session.vim
 .vim
 .lvimrc
 .vimlocal
+DebuggerStack
 
 # rc files
 .ackrc
