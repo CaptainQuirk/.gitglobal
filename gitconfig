@@ -37,6 +37,10 @@
 [big-picture]
 	viewer = /Applications/Firefox.app/Contents/MacOS/firefox
 
+[fetch]
+	prune = true
+	pruneTags = true
+
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
