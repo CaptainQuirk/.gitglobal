@@ -22,7 +22,7 @@ node_modules
 
 # Ctags file
 .tags
-tags
+/tags
 .vimtags
 tags.lock
 tags.temp
